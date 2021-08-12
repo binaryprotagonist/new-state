@@ -1,0 +1,14 @@
+name: sate
+recipe: laravel
+config:
+ php: '7.2'
+ webroot: public
+ via: nginx
+services:
+ node:
+   type: node
+   build:
+      - npm install @vue/cli -g
+tooling:
+ yarn:
+   service: node

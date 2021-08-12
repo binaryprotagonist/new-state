@@ -1,0 +1,52 @@
+$P$BkKXdJk.OJiDTb0/oDQOpjWDwPgnjR.
+
+
+Sategest
+Changes:
+
+Fixed
+
+1. The icons look ugly.
+:: Please provide the screenshot.  Fixed
+
+4. When you leave a task it sends you to providers :: Fixed
+
+5. Put start button in menu
+:: where we need to put the start  Fixed
+
+7. The social referent role can create tasks for the users of its entity but not modify
+:: Fixed
+
+8. The role of referent Economic can see the invoices of your entity, you can download them but not modify
+:: Fixed
+
+10. Within the patient file in the eye you can fill out a form but right now it will not let you review it.
+:: From where you want to review it, please share the link.
+Fixed
+
+6. In tasks, the worker must be able to terminate the task once it has been managed, and it can only be reopened by the role of cordination.
+:: Terminate the task means -> remove the task.
+:: Means Task section should show in cordination role users
+Fixed
+
+Pending
+
+
+
+2. Activate location service with registration.
+:: from where user get registration, so i can get the location.
+
+
+3. In workers it does not allow you to modify academic training and work experience
+:: Fixed
+
+9. In patients the contract has to appear and right now nothing comes out, these contracts are already uploaded.
+:: Means, pdf not preparing here as i saw the issue, is this you want to solve only?
+
+
+
+
+
+See if you can have all this by Tuesday
+I think with this and everything.
+Once this is finished I review it and I will inform you
